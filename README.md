@@ -1,9 +1,15 @@
 # 💫 About Me:
 👋 Hi, I'm Radhika Borigam, a passionate developer specializing in AI, LLMs, NLP, and ML. I love building innovative solutions that integrate AI with modern web technologies. My expertise spans frontend, backend, and cloud services, ensuring performance, scalability, and a seamless user experience.
+
+
 🔧 Tech Stack:
+
 Frontend: React, Next.js, Angular, Tailwind CSS, Material-UI
+
 Backend: Node.js, Express, Firebase, MongoDB, MySQL
+
 Tools & APIs: RESTful APIs, Firebase, AWS
+
 Languages: TypeScript, JavaScript, Python
 
 🌱 I’m currently learning ...
