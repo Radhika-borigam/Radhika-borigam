@@ -51,6 +51,11 @@ I enjoy researching ways to enhance social media platforms with AI!
 ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=flat-square&logo=ollama&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-%230A0A0A.svg?style=flat-square&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-%234ea94b.svg?style=flat-square&logo=openai&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-%23FF6F00.svg?style=flat-square&logo=machinelearning&logoColor=white)
 
 
+## 🐍 See how it works
+![GitHub Snake Animation](https://raw.githubusercontent.com/radhika-borigam/radhika-borigam/output/github-snake.svg)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
