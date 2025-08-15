@@ -7,26 +7,42 @@ I’m also a competitive programmer, having solved 400+ LeetCode problems (Top 2
 
 🚀 Tech Stack
 💻 Languages: Java, Python, C, JavaScript, TypeScript, SQL, HTML, CSS
+
 🖥 Frontend: React.js, Next.js, Tailwind CSS, Material UI, Bootstrap
+
 ⚙ Backend: Spring Boot, Node.js, Express.js, Django, Flask, MERN Stack
+
 📦 Tools & Platforms: Docker, Kubernetes, Jenkins, RabbitMQ, Firebase, Appwrite, Postman, REST APIs, Vercel, Netlify
+
 🗄 Databases: MySQL, MongoDB, PostgreSQL, Firebase
+
 📚 Other Skills: OOP, DSA, System Design, Competitive Programming, Agile
 
 💼 Experience
+
+
 MERN Stack Developer Intern — Syslabs (May 2025 – July 2025)
+
 Built responsive dashboards with React.js + Tailwind CSS and integrated REST APIs with efficient state management.
+
 Developed reusable UI components and collaborated in Agile sprints for rapid iteration.
 
 🛠 Projects
 
+
 Beautinest — Salon booking platform using Spring Boot microservices, Keycloak, RabbitMQ, Docker.
+
 AEYE — AI-powered public safety platform using Gemini Pro Vision API and Next.js.
+
 Vybe — Social media app with reels, stories, chat, and live notifications using MERN Stack + Socket.IO.
 
 Achievements
+
+
 400+ LeetCode problems solved (Top 23%)
+
 3★ GeeksforGeeks
+
 Max CodeChef rating: 1708
 
 ## 📫 How to reach me: ...
